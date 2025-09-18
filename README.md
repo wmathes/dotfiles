@@ -5,6 +5,7 @@
 winget install Valve.Steam
 winget install Spotify.Spotify
 winget install WhatsApp.WhatsApp
+winget install Discord.Discord
 winget install Telegram.TelegramDesktop
 winget install Google.Chrome 
 winget install Microsoft.PowerToys
