@@ -2,19 +2,22 @@
 
 ## basics
 ```
+winget install Microsoft.Sysinternals.Suite
+winget install Microsoft.PowerToys
 winget install Valve.Steam
 winget install Spotify.Spotify
 winget install WhatsApp.WhatsApp
 winget install Discord.Discord
 winget install Telegram.TelegramDesktop
 winget install Google.Chrome 
-winget install Microsoft.PowerToys
 winget install Notepad++.Notepad++
 ```
 
 ## dev
 ```
 winget install Git.Git
+winget install PuTTY.PuTTY
+winget install ZedIndustries.Zed
 winget install Docker.DockerDesktop
 winget install Atlassian.SourceTree
 winget install JetBrains.Toolbox
